@@ -30,6 +30,38 @@ The primary objectives of this project are:
 
 ---
 
+# Screenshots
+
+## Home Page
+
+![Home Page](screenshots/home.png)
+<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/1c9b44b1-654f-4a45-ac40-173be9d87034" />
+
+---
+
+## Code Editor
+
+![Code Editor](screenshots/editor.png)
+
+<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/84145726-6dc2-45a5-86ee-e93c2c6f5d85" />
+
+---
+
+## AI Review Result
+
+![AI Review](screenshots/review.png)
+
+<img width="1366" height="601" alt="image" src="https://github.com/user-attachments/assets/98d5197f-e41f-46d0-94a2-36d73fabcdbf" />
+
+---
+
+## History Tab
+
+![AI Review](screenshots/history.png)
+<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/b45f9c4a-5e17-4bd8-b2e9-a5f68c701f18" />
+
+---
+
 ## Technologies Used
 
 ### Frontend
