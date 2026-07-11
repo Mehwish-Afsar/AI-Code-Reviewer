@@ -34,9 +34,8 @@ The primary objectives of this project are:
 
 ## Home Page
 
-![Home Page]
-<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/1c9b44b1-654f-4a45-ac40-173be9d87034" />
-
+![Home Page](<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/1c9b44b1-654f-4a45-ac40-173be9d87034" />)
+*Figure 1: Main interface of the AI Code Reviewer.*
 ---
 
 ## Code Editor
