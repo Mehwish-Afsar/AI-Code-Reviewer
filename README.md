@@ -34,30 +34,33 @@ The primary objectives of this project are:
 
 ## Home Page
 
-![Home Page](<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/1c9b44b1-654f-4a45-ac40-173be9d87034" />)
+<img width="100%" alt="Home Page" src="https://github.com/user-attachments/assets/1c9b44b1-654f-4a45-ac40-173be9d87034" />
+
 *Figure 1: Main interface of the AI Code Reviewer.*
+
 ---
 
 ## Code Editor
 
-![Code Editor]
+<img width="100%" alt="Code Editor" src="https://github.com/user-attachments/assets/84145726-6dc2-45a5-86ee-e93c2c6f5d85" />
 
-<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/84145726-6dc2-45a5-86ee-e93c2c6f5d85" />
+*Figure 2: Interactive code editor with syntax highlighting.*
 
 ---
 
 ## AI Review Result
 
-![AI Review]
+<img width="100%" alt="AI Review Result" src="https://github.com/user-attachments/assets/98d5197f-e41f-46d0-94a2-36d73fabcdbf" />
 
-<img width="1366" height="601" alt="image" src="https://github.com/user-attachments/assets/98d5197f-e41f-46d0-94a2-36d73fabcdbf" />
+*Figure 3: AI-generated code review with suggestions and improvements.*
 
 ---
 
 ## History Tab
 
-![AI Review]
-<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/b45f9c4a-5e17-4bd8-b2e9-a5f68c701f18" />
+<img width="100%" alt="History Tab" src="https://github.com/user-attachments/assets/b45f9c4a-5e17-4bd8-b2e9-a5f68c701f18" />
+
+*Figure 4: History of previously reviewed code snippets.*
 
 ---
 
