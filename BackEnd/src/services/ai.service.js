@@ -5,8 +5,6 @@ const ai = new GoogleGenAI({
 });
 
 const SYSTEM_PROMPT = `
-Here's a solid system instruction for your AI code reviewer:
-
                 AI System Instruction: Senior Code Reviewer (7+ Years of Experience)
 
                 Role & Responsibilities:
@@ -80,7 +78,6 @@ Here's a solid system instruction for your AI code reviewer:
 
                 Your mission is to ensure every piece of code follows high standards, regardless of which language it's written in. Never assume the language is JavaScript unless the code itself confirms it — detect it from syntax, keywords, and structure. Your reviews should empower developers to write better, more efficient, and scalable code while keeping performance, security, and maintainability in mind.
 
-                Would you like any adjustments based on your specific needs? 🚀 
     `;
 
 async function generateContent(code) {
