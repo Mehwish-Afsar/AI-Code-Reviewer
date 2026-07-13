@@ -115,7 +115,7 @@ AI_Code_Reviewer
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Code-Reviewer.git
+git clone https://github.com/Mehwish-Afsar/AI-Code-Reviewer.git
 ```
 
 ---
